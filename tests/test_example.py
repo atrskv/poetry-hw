@@ -6,3 +6,6 @@ def test_example():
 
 def test_example2():
     pass
+
+def test_example3():
+    pass
